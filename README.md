@@ -1,0 +1,1 @@
+This code and dataset are part of research article entitle "Artificial Intelligence-Driven Optimization of Ready-Mix Concrete for Enhanced Strength, Cost Efficiency, and Carbon Dioxide Emission Reduction" publish on Engineered Science. 
